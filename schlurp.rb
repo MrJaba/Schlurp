@@ -3,6 +3,7 @@ require 'faraday'
 require 'JSON'
 require 'ruby-debug'
 require 'twitter-text'
+require 'readability'
 
 connection = Faraday.new(:url => 'https://schlurp-api.apigee.com/v1/twitter/1/statuses/user_timeline.json?') do |builder|
   builder.use Faraday::Request::UrlEncoded  # convert request params as "www-form-urlencoded"
@@ -39,5 +40,5 @@ resolved.each do |uri|
   response = resolver.get do |req|
     req.url uri
   end
-  p response.body
+  Readability::Document.new(response.body).content
 end
