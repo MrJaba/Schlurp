@@ -3,7 +3,9 @@ require 'faraday'
 require 'JSON'
 require 'ruby-debug'
 require 'twitter-text'
+require 'nokogiri'
 require 'readability'
+require 'yaml'
 
 connection = Faraday.new(:url => 'https://schlurp-api.apigee.com/v1/twitter/1/statuses/user_timeline.json?') do |builder|
   builder.use Faraday::Request::UrlEncoded  # convert request params as "www-form-urlencoded"
@@ -40,5 +42,6 @@ resolved.each do |uri|
   response = resolver.get do |req|
     req.url uri
   end
-  Readability::Document.new(response.body).content
+  document = Nokogiri::HTML(response.body)
+  p Readability::Document.new(document, uri, nil).content
 end
