@@ -6,6 +6,7 @@ require 'twitter-text'
 require 'nokogiri'
 require 'readability'
 require 'yaml'
+require 'webtagger'
 
 connection = Faraday.new(:url => 'https://schlurp-api.apigee.com/v1/twitter/1/statuses/user_timeline.json?') do |builder|
   builder.use Faraday::Request::UrlEncoded  # convert request params as "www-form-urlencoded"
@@ -43,5 +44,8 @@ resolved.each do |uri|
     req.url uri
   end
   document = Nokogiri::HTML(response.body)
-  p Readability::Document.new(document, uri, nil).content
+  article_content = Readability::Document.new(document, uri, nil).content
+  tags = WebTagger.tag_with_alchemy( article_content, ENV['ALCHEMY_KEY'])
+  tags += WebTagger.tag_with_tagthe( article_content ) 
+  p tags.uniq
 end
