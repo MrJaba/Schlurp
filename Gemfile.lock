@@ -1,0 +1,67 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activemodel (3.1.1)
+      activesupport (= 3.1.1)
+      builder (~> 3.0.0)
+      i18n (~> 0.6)
+    activesupport (3.1.1)
+      multi_json (~> 1.0)
+    addressable (2.2.6)
+    archive-tar-minitar (0.5.2)
+    bson (1.5.1)
+    bson_ext (1.5.1)
+    builder (3.0.0)
+    busk-ruby-readability (1.3)
+    columnize (0.3.5)
+    faraday (0.7.5)
+      addressable (~> 2.2.6)
+      multipart-post (~> 1.1.3)
+      rack (>= 1.1.0, < 2)
+    i18n (0.6.0)
+    json (1.6.3)
+    linecache19 (0.5.12)
+      ruby_core_source (>= 0.1.4)
+    mongo (1.5.1)
+      bson (= 1.5.1)
+    mongo_mapper (0.10.1)
+      activemodel (~> 3.0)
+      activesupport (~> 3.0)
+      plucky (~> 0.4.0)
+    multi_json (1.0.4)
+    multipart-post (1.1.4)
+    nokogiri (1.5.0)
+    plucky (0.4.3)
+      mongo (~> 1.3)
+    rack (1.3.5)
+    ruby-debug-base19 (0.11.25)
+      columnize (>= 0.3.1)
+      linecache19 (>= 0.5.11)
+      ruby_core_source (>= 0.1.4)
+    ruby-debug19 (0.11.6)
+      columnize (>= 0.3.1)
+      linecache19 (>= 0.5.11)
+      ruby-debug-base19 (>= 0.11.19)
+    ruby_core_source (0.1.5)
+      archive-tar-minitar (>= 0.5.2)
+    simple_cache (0.1.0)
+    twitter-text (1.4.15)
+      activesupport
+    webtagger (1.1.1)
+      json
+      simple_cache
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activemodel (= 3.1.1)
+  activesupport (= 3.1.1)
+  bson_ext
+  busk-ruby-readability
+  faraday
+  mongo_mapper
+  nokogiri
+  ruby-debug19
+  twitter-text
+  webtagger

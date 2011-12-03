@@ -7,15 +7,14 @@ require 'nokogiri'
 require 'readability'
 require 'yaml'
 require 'webtagger'
+require 'active_model'
+require 'active_support'
+require 'mongo_mapper'
 
-include Twitter::Extractor
+MongoMapper.database = 'schlurp'
 
-timeline = JSON.parse(response.body) 
-p spoken_to
-p links
+require_relative 'lib/user_timeline'
+require_relative 'lib/link'
+require_relative 'lib/tweeter'
 
-
-  tags = WebTagger.tag_with_alchemy( article_content, ENV['ALCHEMY_KEY'])
-  tags += WebTagger.tag_with_tagthe( article_content ) 
-  p tags.uniq
-end
+UserTimeline.new("mrjaba").run
