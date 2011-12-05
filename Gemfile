@@ -9,3 +9,4 @@ gem 'activesupport', "3.1.1"
 gem 'mongo_mapper'
 gem 'bson_ext'
 gem 'ruby-debug19'
+gem 'qu-mongo'

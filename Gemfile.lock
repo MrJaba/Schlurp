@@ -33,6 +33,11 @@ GEM
     nokogiri (1.5.0)
     plucky (0.4.3)
       mongo (~> 1.3)
+    qu (0.1.3)
+      multi_json
+    qu-mongo (0.1.3)
+      mongo
+      qu (= 0.1.3)
     rack (1.3.5)
     ruby-debug-base19 (0.11.25)
       columnize (>= 0.3.1)
@@ -62,6 +67,7 @@ DEPENDENCIES
   faraday
   mongo_mapper
   nokogiri
+  qu-mongo
   ruby-debug19
   twitter-text
   webtagger

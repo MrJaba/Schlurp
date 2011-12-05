@@ -3,15 +3,19 @@ class UserTimeline
 
   attr_reader :user, :timeline
 
-  def initialize(user)
-    @user = user
+  def self.perform(screen_name)
+    timeline = UserTimeline.new(screen_name)
+    timeline.run
+  end
+
+  def initialize(screen_name)
+    @user = screen_name
   end
   
   def run
     @timeline = JSON.parse(fetch_timeline)
-    people = parse_people
-    update_people(people)
-    links = parse_links
+    parse_mentions
+    parse_links
   end
 
 private
@@ -28,21 +32,32 @@ private
     end.body
   end
 
-  def parse_people
+  def parse_mentions
+    update_mention_frequencies(mention_frequencies)
+  end
+
+  def parse_links
+    timeline_links.each do |link|
+      Qu.enqueue Link, link
+      puts "Pushed #{link}"
+    end
+  end
+
+  def mention_frequency
     spoken_to = Hash.new{|name,frequency| name[frequency]= 0}
     timeline.each{|tweet| extract_mentioned_screen_names(tweet['text']).each{|name| spoken_to[name] += 1 } }
     spoken_to
   end
    
-  def update_people(people)
-    people.each do |person, count|
+  def update_mention_frequencies(mentions)
+    mentions.each do |person, count|
       tweeter = Tweeter.find_or_initialize_by_name(person)
       tweeter.frequency = (tweeter.frequency||0) + count
       tweeter.save
     end
   end
 
-  def parse_links
+  def timeline_links
     timeline.collect{|tweet| extract_urls(tweet['text']).collect{|link| Link.new(link)}}.flatten
   end
 

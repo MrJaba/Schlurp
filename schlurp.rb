@@ -10,6 +10,7 @@ require 'webtagger'
 require 'active_model'
 require 'active_support'
 require 'mongo_mapper'
+require 'qu'
 
 MongoMapper.database = 'schlurp'
 
