@@ -11,11 +11,13 @@ require 'active_model'
 require 'active_support'
 require 'mongo_mapper'
 require 'qu'
+require 'qu-mongo'
 
 MongoMapper.database = 'schlurp'
 
 require_relative 'lib/user_timeline'
 require_relative 'lib/link'
 require_relative 'lib/tweeter'
+require_relative 'lib/article'
 
-UserTimeline.new("mrjaba").run
+# UserTimeline.new("mrjaba").run

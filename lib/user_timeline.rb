@@ -43,9 +43,13 @@ private
     end
   end
 
-  def mention_frequency
+  def mention_frequencies
     spoken_to = Hash.new{|name,frequency| name[frequency]= 0}
-    timeline.each{|tweet| extract_mentioned_screen_names(tweet['text']).each{|name| spoken_to[name] += 1 } }
+    timeline.each do |tweet| 
+      extract_mentioned_screen_names(tweet['text']).each do |name| 
+        spoken_to[name] += 1
+      end
+    end
     spoken_to
   end
    
@@ -58,7 +62,7 @@ private
   end
 
   def timeline_links
-    timeline.collect{|tweet| extract_urls(tweet['text']).collect{|link| Link.new(link)}}.flatten
+    timeline.collect{|tweet| extract_urls(tweet['text'])}.flatten
   end
 
 

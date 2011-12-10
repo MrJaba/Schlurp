@@ -95,3 +95,298 @@ Sat Dec  3 18:21:28 [initandlisten] connection accepted from 127.0.0.1:57869 #28
 Sat Dec  3 18:21:28 [conn28] end connection 127.0.0.1:57869
 Sat Dec  3 18:21:28 [initandlisten] connection accepted from 127.0.0.1:57871 #29
 Sat Dec  3 18:21:45 [conn29] end connection 127.0.0.1:57871
+Sun Dec  4 12:38:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 12:43:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 12:48:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 12:53:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 12:58:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:03:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:08:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:13:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:18:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:23:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:28:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:33:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:38:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:43:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:48:49 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:53:50 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 13:58:50 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:03:50 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:08:50 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:13:50 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:18:50 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:33:03 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:38:03 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:43:03 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:48:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:53:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 14:58:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:03:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:08:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:13:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:18:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:23:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:28:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:33:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:38:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:43:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:48:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:53:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 15:58:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:03:04 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:08:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:13:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:18:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:23:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:28:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:33:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:38:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:43:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:48:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:53:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 16:58:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 17:03:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 17:08:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 17:13:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 17:18:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 17:23:05 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 17:28:06 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 17:33:06 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 17:38:06 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:05:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:10:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:15:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:20:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:25:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:30:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:35:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:40:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:45:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:50:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 18:55:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Sun Dec  4 19:00:21 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 18:49:38 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 18:54:38 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 18:59:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:04:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:09:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:14:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:19:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:24:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:29:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:34:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:39:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:44:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:49:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:54:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 19:59:39 [clientcursormon] mem (MB) res:0 virt:2626 mapped:80
+Mon Dec  5 20:04:39 [clientcursormon] mem (MB) res:1 virt:2626 mapped:80
+Sat Dec 10 16:08:38 [initandlisten] MongoDB starting : pid=19550 port=27017 dbpath=/usr/local/var/mongodb 64-bit host=Toms-MacBook-Air.local
+Sat Dec 10 16:08:38 [initandlisten] db version v2.0.0, pdfile version 4.5
+Sat Dec 10 16:08:38 [initandlisten] git version: 695c67dff0ffc361b8568a13366f027caa406222
+Sat Dec 10 16:08:38 [initandlisten] build info: Darwin erh2.10gen.cc 9.6.0 Darwin Kernel Version 9.6.0: Mon Nov 24 17:37:00 PST 2008; root:xnu-1228.9.59~1/RELEASE_I386 i386 BOOST_LIB_VERSION=1_40
+Sat Dec 10 16:08:38 [initandlisten] options: { bind_ip: "127.0.0.1", command: [ "run" ], config: "/usr/local/Cellar/mongodb/2.0.0-x86_64/mongod.conf", dbpath: "/usr/local/var/mongodb" }
+Sat Dec 10 16:08:38 [initandlisten] journal dir=/usr/local/var/mongodb/journal
+Sat Dec 10 16:08:38 [initandlisten] recover begin
+Sat Dec 10 16:08:38 [initandlisten] recover lsn: 4431647
+Sat Dec 10 16:08:38 [initandlisten] recover /usr/local/var/mongodb/journal/j._0
+Sat Dec 10 16:08:38 [initandlisten] recover skipping application of section seq:3829191 < lsn:4431647
+Sat Dec 10 16:08:38 [initandlisten] recover skipping application of section seq:4376965 < lsn:4431647
+Sat Dec 10 16:08:38 [initandlisten] recover cleaning up
+Sat Dec 10 16:08:38 [initandlisten] removeJournalFiles
+Sat Dec 10 16:08:38 [initandlisten] recover done
+Sat Dec 10 16:08:38 [websvr] admin web console waiting for connections on port 28017
+Sat Dec 10 16:08:38 [initandlisten] waiting for connections on port 27017
+Sat Dec 10 16:09:38 [clientcursormon] mem (MB) res:14 virt:2434 mapped:0
+Sat Dec 10 16:13:09 [initandlisten] connection accepted from 127.0.0.1:61546 #1
+Sat Dec 10 16:13:09 [initandlisten] connection accepted from 127.0.0.1:61548 #2
+Sat Dec 10 16:13:09 [conn1] end connection 127.0.0.1:61546
+Sat Dec 10 16:13:12 [conn2] end connection 127.0.0.1:61548
+Sat Dec 10 16:13:38 [clientcursormon] mem (MB) res:30 virt:2626 mapped:80
+Sat Dec 10 16:15:34 [initandlisten] connection accepted from 127.0.0.1:61553 #3
+Sat Dec 10 16:15:34 [conn3] end connection 127.0.0.1:61553
+Sat Dec 10 16:15:34 [initandlisten] connection accepted from 127.0.0.1:61555 #4
+Sat Dec 10 16:15:36 [conn4] end connection 127.0.0.1:61555
+Sat Dec 10 16:18:38 [clientcursormon] mem (MB) res:31 virt:2626 mapped:80
+Sat Dec 10 16:19:13 [initandlisten] connection accepted from 127.0.0.1:61562 #5
+Sat Dec 10 16:19:13 [conn5] end connection 127.0.0.1:61562
+Sat Dec 10 16:19:13 [initandlisten] connection accepted from 127.0.0.1:61564 #6
+Sat Dec 10 16:20:36 [conn6] end connection 127.0.0.1:61564
+Sat Dec 10 16:23:38 [clientcursormon] mem (MB) res:31 virt:2626 mapped:80
+Sat Dec 10 16:25:05 [initandlisten] connection accepted from 127.0.0.1:61636 #7
+Sat Dec 10 16:25:05 [conn7] end connection 127.0.0.1:61636
+Sat Dec 10 16:25:05 [initandlisten] connection accepted from 127.0.0.1:61638 #8
+Sat Dec 10 16:28:38 [clientcursormon] mem (MB) res:31 virt:2626 mapped:80
+Sat Dec 10 16:30:00 [initandlisten] connection accepted from 127.0.0.1:61653 #9
+Sat Dec 10 16:30:00 [conn9] end connection 127.0.0.1:61653
+Sat Dec 10 16:30:00 [initandlisten] connection accepted from 127.0.0.1:61655 #10
+Sat Dec 10 16:33:38 [clientcursormon] mem (MB) res:31 virt:2627 mapped:80
+Sat Dec 10 16:38:38 [clientcursormon] mem (MB) res:31 virt:2627 mapped:80
+Sat Dec 10 16:43:38 [clientcursormon] mem (MB) res:31 virt:2627 mapped:80
+Sat Dec 10 16:48:38 [clientcursormon] mem (MB) res:31 virt:2627 mapped:80
+Sat Dec 10 16:53:38 [clientcursormon] mem (MB) res:31 virt:2627 mapped:80
+Sat Dec 10 16:54:51 [initandlisten] connection accepted from 127.0.0.1:61822 #11
+Sat Dec 10 16:54:51 [conn11] end connection 127.0.0.1:61822
+Sat Dec 10 16:54:51 [initandlisten] connection accepted from 127.0.0.1:61824 #12
+Sat Dec 10 16:54:55 [conn12] end connection 127.0.0.1:61824
+Sat Dec 10 16:55:39 [initandlisten] connection accepted from 127.0.0.1:61828 #13
+Sat Dec 10 16:55:39 [conn13] end connection 127.0.0.1:61828
+Sat Dec 10 16:55:39 [initandlisten] connection accepted from 127.0.0.1:61830 #14
+Sat Dec 10 16:55:41 [initandlisten] connection accepted from 127.0.0.1:61833 #15
+Sat Dec 10 16:55:41 [conn15] end connection 127.0.0.1:61833
+Sat Dec 10 16:55:41 [conn14] end connection 127.0.0.1:61830
+Sat Dec 10 16:58:38 [clientcursormon] mem (MB) res:15 virt:2627 mapped:80
+Sat Dec 10 17:03:38 [clientcursormon] mem (MB) res:15 virt:2627 mapped:80
+Sat Dec 10 17:08:38 [clientcursormon] mem (MB) res:15 virt:2627 mapped:80
+Sat Dec 10 17:11:24 [initandlisten] connection accepted from 127.0.0.1:62005 #16
+Sat Dec 10 17:11:24 [conn16] end connection 127.0.0.1:62005
+Sat Dec 10 17:11:24 [initandlisten] connection accepted from 127.0.0.1:62007 #17
+Sat Dec 10 17:11:26 [initandlisten] connection accepted from 127.0.0.1:62010 #18
+Sat Dec 10 17:11:26 [conn18] end connection 127.0.0.1:62010
+Sat Dec 10 17:11:26 [conn17] end connection 127.0.0.1:62007
+Sat Dec 10 17:13:39 [clientcursormon] mem (MB) res:15 virt:2627 mapped:80
+Sat Dec 10 17:14:01 [initandlisten] connection accepted from 127.0.0.1:62016 #19
+Sat Dec 10 17:14:01 [conn19] end connection 127.0.0.1:62016
+Sat Dec 10 17:14:01 [initandlisten] connection accepted from 127.0.0.1:62018 #20
+Sat Dec 10 17:14:03 [initandlisten] connection accepted from 127.0.0.1:62021 #21
+Sat Dec 10 17:14:03 [conn21] end connection 127.0.0.1:62021
+Sat Dec 10 17:14:03 [initandlisten] connection accepted from 127.0.0.1:62023 #22
+Sat Dec 10 17:14:03 [FileAllocator] allocating new datafile /usr/local/var/mongodb/qu.ns, filling with zeroes...
+Sat Dec 10 17:14:03 [FileAllocator] creating directory /usr/local/var/mongodb/_tmp
+Sat Dec 10 17:14:03 [FileAllocator] done allocating datafile /usr/local/var/mongodb/qu.ns, size: 16MB,  took 0.035 secs
+Sat Dec 10 17:14:03 [FileAllocator] allocating new datafile /usr/local/var/mongodb/qu.0, filling with zeroes...
+Sat Dec 10 17:14:03 [FileAllocator] done allocating datafile /usr/local/var/mongodb/qu.0, size: 64MB,  took 0.243 secs
+Sat Dec 10 17:14:04 [FileAllocator] allocating new datafile /usr/local/var/mongodb/qu.1, filling with zeroes...
+Sat Dec 10 17:14:04 [conn22] build index qu.qu:queue:default { _id: 1 }
+Sat Dec 10 17:14:04 [conn22] build index done 0 records 0.001 secs
+Sat Dec 10 17:14:04 [conn22] insert qu.qu:queue:default 368ms
+Sat Dec 10 17:14:04 [conn22] build index qu.qu:queues { _id: 1 }
+Sat Dec 10 17:14:04 [conn22] build index done 0 records 0 secs
+Sat Dec 10 17:14:04 [FileAllocator] done allocating datafile /usr/local/var/mongodb/qu.1, size: 128MB,  took 0.526 secs
+Sat Dec 10 17:14:39 [clientcursormon] mem (MB) res:15 virt:2788 mapped:160
+Sat Dec 10 17:14:46 [conn20] end connection 127.0.0.1:62018
+Sat Dec 10 17:14:46 [conn22] end connection 127.0.0.1:62023
+Sat Dec 10 17:17:50 [conn10] CMD: drop qu.qu:queue:default
+Sat Dec 10 17:18:39 [clientcursormon] mem (MB) res:19 virt:2791 mapped:160
+Sat Dec 10 17:19:56 [initandlisten] connection accepted from 127.0.0.1:62049 #23
+Sat Dec 10 17:19:56 [conn23] end connection 127.0.0.1:62049
+Sat Dec 10 17:19:56 [initandlisten] connection accepted from 127.0.0.1:62051 #24
+Sat Dec 10 17:19:59 [conn24] end connection 127.0.0.1:62051
+Sat Dec 10 17:21:09 [initandlisten] connection accepted from 127.0.0.1:62057 #25
+Sat Dec 10 17:21:09 [conn25] end connection 127.0.0.1:62057
+Sat Dec 10 17:21:09 [initandlisten] connection accepted from 127.0.0.1:62059 #26
+Sat Dec 10 17:21:11 [initandlisten] connection accepted from 127.0.0.1:62062 #27
+Sat Dec 10 17:21:11 [conn27] end connection 127.0.0.1:62062
+Sat Dec 10 17:21:11 [initandlisten] connection accepted from 127.0.0.1:62064 #28
+Sat Dec 10 17:21:11 [conn28] build index qu.qu:queue:default { _id: 1 }
+Sat Dec 10 17:21:11 [conn28] build index done 0 records 0 secs
+Sat Dec 10 17:21:33 [conn26] end connection 127.0.0.1:62059
+Sat Dec 10 17:21:33 [conn28] end connection 127.0.0.1:62064
+Sat Dec 10 17:23:39 [clientcursormon] mem (MB) res:16 virt:2791 mapped:160
+Sat Dec 10 17:28:39 [clientcursormon] mem (MB) res:16 virt:2791 mapped:160
+Sat Dec 10 17:30:50 [initandlisten] connection accepted from 127.0.0.1:62089 #29
+Sat Dec 10 17:30:50 [conn29] end connection 127.0.0.1:62089
+Sat Dec 10 17:30:50 [initandlisten] connection accepted from 127.0.0.1:62091 #30
+Sat Dec 10 17:30:50 [initandlisten] connection accepted from 127.0.0.1:62093 #31
+Sat Dec 10 17:30:50 [conn31] end connection 127.0.0.1:62093
+Sat Dec 10 17:30:50 [initandlisten] connection accepted from 127.0.0.1:62095 #32
+Sat Dec 10 17:30:50 [conn32] build index qu.qu:workers { _id: 1 }
+Sat Dec 10 17:30:50 [conn32] build index done 0 records 0 secs
+Sat Dec 10 17:30:51 [conn32] build index qu.qu:queue:failed { _id: 1 }
+Sat Dec 10 17:30:51 [conn32] build index done 0 records 0 secs
+Sat Dec 10 17:31:01 [conn30] end connection 127.0.0.1:62091
+Sat Dec 10 17:31:01 [conn32] end connection 127.0.0.1:62095
+Sat Dec 10 17:32:43 [initandlisten] connection accepted from 127.0.0.1:62120 #33
+Sat Dec 10 17:32:43 [conn33] end connection 127.0.0.1:62120
+Sat Dec 10 17:32:43 [initandlisten] connection accepted from 127.0.0.1:62122 #34
+Sat Dec 10 17:32:43 [initandlisten] connection accepted from 127.0.0.1:62124 #35
+Sat Dec 10 17:32:43 [conn35] end connection 127.0.0.1:62124
+Sat Dec 10 17:32:43 [initandlisten] connection accepted from 127.0.0.1:62126 #36
+Sat Dec 10 17:32:49 [conn36] end connection 127.0.0.1:62126
+Sat Dec 10 17:32:49 [conn34] end connection 127.0.0.1:62122
+Sat Dec 10 17:33:39 [clientcursormon] mem (MB) res:16 virt:2791 mapped:160
+Sat Dec 10 17:35:06 [initandlisten] connection accepted from 127.0.0.1:62142 #37
+Sat Dec 10 17:35:06 [conn37] end connection 127.0.0.1:62142
+Sat Dec 10 17:35:06 [initandlisten] connection accepted from 127.0.0.1:62144 #38
+Sat Dec 10 17:35:06 [conn38] end connection 127.0.0.1:62144
+Sat Dec 10 17:35:30 [initandlisten] connection accepted from 127.0.0.1:62146 #39
+Sat Dec 10 17:35:30 [conn39] end connection 127.0.0.1:62146
+Sat Dec 10 17:35:30 [initandlisten] connection accepted from 127.0.0.1:62148 #40
+Sat Dec 10 17:35:30 [conn40] build index schlurp.articles { _id: 1 }
+Sat Dec 10 17:35:30 [conn40] build index done 0 records 0.001 secs
+Sat Dec 10 17:35:30 [conn40] info: creating collection schlurp.articles on add index
+Sat Dec 10 17:35:30 [conn40] build index schlurp.articles { uri: 1 }
+Sat Dec 10 17:35:30 [conn40] build index done 0 records 0.001 secs
+Sat Dec 10 17:35:30 [initandlisten] connection accepted from 127.0.0.1:62150 #41
+Sat Dec 10 17:35:30 [conn41] end connection 127.0.0.1:62150
+Sat Dec 10 17:35:30 [initandlisten] connection accepted from 127.0.0.1:62152 #42
+Sat Dec 10 17:35:32 [conn42] end connection 127.0.0.1:62152
+Sat Dec 10 17:35:32 [conn40] end connection 127.0.0.1:62148
+Sat Dec 10 17:35:39 [clientcursormon] mem (MB) res:19 virt:2791 mapped:160
+Sat Dec 10 17:40:39 [clientcursormon] mem (MB) res:19 virt:2791 mapped:160
+Sat Dec 10 17:44:09 [initandlisten] connection accepted from 127.0.0.1:62185 #43
+Sat Dec 10 17:44:09 [conn43] end connection 127.0.0.1:62185
+Sat Dec 10 17:44:09 [initandlisten] connection accepted from 127.0.0.1:62187 #44
+Sat Dec 10 17:44:10 [initandlisten] connection accepted from 127.0.0.1:62189 #45
+Sat Dec 10 17:44:10 [conn45] end connection 127.0.0.1:62189
+Sat Dec 10 17:44:10 [initandlisten] connection accepted from 127.0.0.1:62191 #46
+Sat Dec 10 17:45:07 [conn46] end connection 127.0.0.1:62191
+Sat Dec 10 17:45:07 [conn44] end connection 127.0.0.1:62187
+Sat Dec 10 17:45:39 [clientcursormon] mem (MB) res:19 virt:2791 mapped:160
+Sat Dec 10 17:46:41 [initandlisten] connection accepted from 127.0.0.1:62227 #47
+Sat Dec 10 17:46:41 [conn47] end connection 127.0.0.1:62227
+Sat Dec 10 17:46:41 [initandlisten] connection accepted from 127.0.0.1:62229 #48
+Sat Dec 10 17:46:43 [initandlisten] connection accepted from 127.0.0.1:62232 #49
+Sat Dec 10 17:46:43 [conn49] end connection 127.0.0.1:62232
+Sat Dec 10 17:46:43 [initandlisten] connection accepted from 127.0.0.1:62234 #50
+Sat Dec 10 17:48:27 [conn50] end connection 127.0.0.1:62234
+Sat Dec 10 17:48:27 [conn48] end connection 127.0.0.1:62229
+Sat Dec 10 17:48:41 [initandlisten] connection accepted from 127.0.0.1:62288 #51
+Sat Dec 10 17:48:41 [conn51] end connection 127.0.0.1:62288
+Sat Dec 10 17:48:41 [initandlisten] connection accepted from 127.0.0.1:62290 #52
+Sat Dec 10 17:48:41 [initandlisten] connection accepted from 127.0.0.1:62292 #53
+Sat Dec 10 17:48:41 [conn53] end connection 127.0.0.1:62292
+Sat Dec 10 17:48:41 [initandlisten] connection accepted from 127.0.0.1:62294 #54
+Sat Dec 10 17:48:41 [conn54] info DFM::findAll(): extent 0:23000 was empty, skipping ahead. ns:qu.qu:queue:default
+Sat Dec 10 17:48:47 [conn54] end connection 127.0.0.1:62294
+Sat Dec 10 17:48:47 [conn52] end connection 127.0.0.1:62290
+Sat Dec 10 17:50:39 [clientcursormon] mem (MB) res:16 virt:2791 mapped:160
+Sat Dec 10 17:51:06 [initandlisten] connection accepted from 127.0.0.1:62781 #55
+Sat Dec 10 17:51:06 [conn55] end connection 127.0.0.1:62781
+Sat Dec 10 17:51:06 [initandlisten] connection accepted from 127.0.0.1:62783 #56
+Sat Dec 10 17:51:06 [initandlisten] connection accepted from 127.0.0.1:62785 #57
+Sat Dec 10 17:51:06 [conn57] end connection 127.0.0.1:62785
+Sat Dec 10 17:51:06 [initandlisten] connection accepted from 127.0.0.1:62787 #58
+Sat Dec 10 17:51:50 [conn58] end connection 127.0.0.1:62787
+Sat Dec 10 17:51:50 [conn56] end connection 127.0.0.1:62783
+Sat Dec 10 17:53:01 [initandlisten] connection accepted from 127.0.0.1:62790 #59
+Sat Dec 10 17:53:01 [conn59] end connection 127.0.0.1:62790
+Sat Dec 10 17:53:01 [initandlisten] connection accepted from 127.0.0.1:62792 #60
+Sat Dec 10 17:53:03 [conn60] end connection 127.0.0.1:62792
+Sat Dec 10 17:53:17 [initandlisten] connection accepted from 127.0.0.1:62795 #61
+Sat Dec 10 17:53:17 [conn61] end connection 127.0.0.1:62795
+Sat Dec 10 17:53:17 [initandlisten] connection accepted from 127.0.0.1:62797 #62
+Sat Dec 10 17:53:18 [initandlisten] connection accepted from 127.0.0.1:62800 #63
+Sat Dec 10 17:53:18 [conn63] end connection 127.0.0.1:62800
+Sat Dec 10 17:53:18 [initandlisten] connection accepted from 127.0.0.1:62802 #64
+Sat Dec 10 17:53:28 [conn62] end connection 127.0.0.1:62797
+Sat Dec 10 17:53:28 [conn64] end connection 127.0.0.1:62802
+Sat Dec 10 17:53:36 [initandlisten] connection accepted from 127.0.0.1:62810 #65
+Sat Dec 10 17:53:36 [conn65] end connection 127.0.0.1:62810
+Sat Dec 10 17:53:36 [initandlisten] connection accepted from 127.0.0.1:62812 #66
+Sat Dec 10 17:53:36 [initandlisten] connection accepted from 127.0.0.1:62814 #67
+Sat Dec 10 17:53:36 [conn67] end connection 127.0.0.1:62814
+Sat Dec 10 17:53:36 [initandlisten] connection accepted from 127.0.0.1:62816 #68
+Sat Dec 10 17:53:41 [conn68] end connection 127.0.0.1:62816
+Sat Dec 10 17:53:41 [conn66] end connection 127.0.0.1:62812
+Sat Dec 10 17:55:39 [clientcursormon] mem (MB) res:16 virt:2791 mapped:160
+Sat Dec 10 17:59:53 [initandlisten] connection accepted from 127.0.0.1:62837 #69
+Sat Dec 10 17:59:53 [conn69] end connection 127.0.0.1:62837
+Sat Dec 10 17:59:53 [initandlisten] connection accepted from 127.0.0.1:62839 #70
+Sat Dec 10 17:59:53 [initandlisten] connection accepted from 127.0.0.1:62841 #71
+Sat Dec 10 17:59:53 [conn71] end connection 127.0.0.1:62841
+Sat Dec 10 17:59:53 [initandlisten] connection accepted from 127.0.0.1:62843 #72
+Sat Dec 10 18:00:18 [conn72] end connection 127.0.0.1:62843
+Sat Dec 10 18:00:18 [conn70] end connection 127.0.0.1:62839
+Sat Dec 10 18:00:39 [clientcursormon] mem (MB) res:16 virt:2791 mapped:160
